@@ -1,0 +1,13 @@
+﻿  Main.c
+c:\users\吳育綸\source\repos\hw2-3-17\hw2-3-17\main.c(7): warning C4101: 'm': 未參考的區域變數
+c:\users\吳育綸\source\repos\hw2-3-17\hw2-3-17\main.c(7): warning C4101: 'k': 未參考的區域變數
+c:\users\吳育綸\source\repos\hw2-3-17\hw2-3-17\main.c(7): warning C4101: 'p': 未參考的區域變數
+c:\users\吳育綸\source\repos\hw2-3-17\hw2-3-17\main.c(7): warning C4101: 'f': 未參考的區域變數
+c:\users\吳育綸\source\repos\hw2-3-17\hw2-3-17\main.c(7): warning C4101: 'l': 未參考的區域變數
+c:\users\吳育綸\source\repos\hw2-3-17\hw2-3-17\main.c(7): warning C4101: 'j': 未參考的區域變數
+c:\users\吳育綸\source\repos\hw2-3-17\hw2-3-17\main.c(7): warning C4101: 'i': 未參考的區域變數
+c:\users\吳育綸\source\repos\hw2-3-17\hw2-3-17\main.c(7): warning C4101: 'h': 未參考的區域變數
+c:\users\吳育綸\source\repos\hw2-3-17\hw2-3-17\main.c(7): warning C4101: 'g': 未參考的區域變數
+c:\users\吳育綸\source\repos\hw2-3-17\hw2-3-17\main.c(7): warning C4101: 'n': 未參考的區域變數
+c:\users\吳育綸\source\repos\hw2-3-17\hw2-3-17\main.c(7): warning C4101: 'o': 未參考的區域變數
+  hw2-3-17.vcxproj -> c:\Users\吳育綸\source\repos\hw2-3-17\Debug\hw2-3-17.exe

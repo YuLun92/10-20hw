@@ -1,0 +1,7 @@
+﻿  hw2-4-15.c
+c:\users\吳育綸\source\repos\hw2-4-15\hw2-4-15\hw2-4-15.c(12): warning C4305: '函式': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\吳育綸\source\repos\hw2-4-15\hw2-4-15\hw2-4-15.c(13): warning C4305: '函式': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\吳育綸\source\repos\hw2-4-15\hw2-4-15\hw2-4-15.c(14): warning C4305: '函式': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\吳育綸\source\repos\hw2-4-15\hw2-4-15\hw2-4-15.c(15): warning C4305: '函式': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\吳育綸\source\repos\hw2-4-15\hw2-4-15\hw2-4-15.c(16): warning C4305: '函式': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  hw2-4-15.vcxproj -> C:\Users\吳育綸\source\repos\hw2-4-15\Debug\hw2-4-15.exe
